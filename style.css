@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+   
+}
+
+.notig{
+    display: flex;
+    
+
+}
+.quadrat{
+    width: 340px;
+    height: 372px;
+    margin-top:auto;
+    margin-left: auto;
+  
+}
+@font-face {
+    font-family: open;
+    src: url(OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+h3{
+    text-align: start;
+    font-family: open;
+}
+.secured{
+    margin-top: 2px;
+    font-family: open;
+    color: #6b7280;
+}
+.googl{
+    width: 281px;
+    height: 48px;
+    margin-top: 15px;
+    border-radius: 4px;
+    background-color: #4285f4;
+    color: #ffffff;
+    border: none;
+   position: relative;
+}
+.img1{
+    width: 43px;
+   margin-left: 20px;
+   
+}
+
